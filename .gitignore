@@ -1,0 +1,12 @@
+#ignore all
+*
+# add index
+!/chapter*/
+!/chapter*/**/
+
+# add type files
+!*.asm
+!makefile
+!.gitignore
+
+# add some other files
